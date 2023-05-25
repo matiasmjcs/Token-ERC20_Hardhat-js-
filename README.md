@@ -12,7 +12,7 @@ Before getting started, make sure you have the following installed:
 ## Setup
 
 1. Clone this repository to your local machine: ``git clone https://github.com/matiasmjcs/Token-ERC20_Hardhat-js-.git``
-2.  Navigate to the project directory: ``cd token-erc20-ts-hardhat``
+2.  Navigate to the project directory: ``cd Token-ERC20_Hardhat-js-``
 3. Install the dependencies: ``npm install``
 4. Configure your `.env` file with your private keys and the Ethereum network URL you wish to use. You can use the `.env.example` file as a base.
 
